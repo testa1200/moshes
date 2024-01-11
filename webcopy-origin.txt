@@ -1,0 +1,424 @@
+Uri: https://meshcentral.com/
+File Name: C:\Downloaded Web Sites\meshcentral.com\index.htm
+Content Type: text/html
+
+Uri: https://meshcentral.com/android/meshcentral-agent.apk
+File Name: C:\Downloaded Web Sites\meshcentral.com\android\meshcentral-agent.apk
+Content Type: application/vnd.android.package-archive
+
+Uri: https://meshcentral.com/banner.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\banner.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/bannerhd.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\bannerhd.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/docs/managementfeatures.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\managementfeatures.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/docs/MeshCentral2DesignArchitecture.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\MeshCentral2DesignArchitecture.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/docs/MeshCentral2InstallGuide.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\MeshCentral2InstallGuide.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/docs/MeshCentral2RouterUserGuide.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\MeshCentral2RouterUserGuide.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/docs/MeshCentral2UserGuide.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\MeshCentral2UserGuide.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/docs/MeshCmdUserGuide.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\MeshCmdUserGuide.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/docs/MeshCtrlUsersGuide.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\MeshCtrlUsersGuide.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/docs/securityfeatures.pdf
+File Name: C:\Downloaded Web Sites\meshcentral.com\docs\securityfeatures.pdf
+Content Type: application/pdf
+
+Uri: https://meshcentral.com/downloads.html
+File Name: C:\Downloaded Web Sites\meshcentral.com\downloads.html
+Content Type: text/html
+
+Uri: https://meshcentral.com/executables/meshcmd-linux-arm-32
+File Name: C:\Downloaded Web Sites\meshcentral.com\executables\meshcmd-linux-arm-32
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/executables/meshcmd-linux-arm-64
+File Name: C:\Downloaded Web Sites\meshcentral.com\executables\meshcmd-linux-arm-64
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/executables/meshcmd-linux-x86-32
+File Name: C:\Downloaded Web Sites\meshcentral.com\executables\meshcmd-linux-x86-32
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/executables/meshcmd-linux-x86-64
+File Name: C:\Downloaded Web Sites\meshcentral.com\executables\meshcmd-linux-x86-64
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/executables/MeshCmd.exe
+File Name: C:\Downloaded Web Sites\meshcentral.com\executables\MeshCmd.exe
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/executables/MeshCmd64.exe
+File Name: C:\Downloaded Web Sites\meshcentral.com\executables\MeshCmd64.exe
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/executables/MeshCmdARM64.exe
+File Name: C:\Downloaded Web Sites\meshcentral.com\executables\MeshCmdARM64.exe
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/favicon-303x303.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\favicon-303x303.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/android.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\android.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/callmebot.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\callmebot.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/cloudflare.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\cloudflare.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/crowdsec.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\crowdsec.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/discord.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\discord.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/docker.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\docker.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/fido.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\fido.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/jumpcloud.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\jumpcloud.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/ldap.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\ldap.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/letsencrypt.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\letsencrypt.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/linux.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\linux.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/macos.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\macos.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/mariadb.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\mariadb.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/mongodb.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\mongodb.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/mysql.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\mysql.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/nextcloud.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\nextcloud.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/nodejs.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\nodejs.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/openssl.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\openssl.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/plivo.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\plivo.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/postgresql.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\postgresql.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/raspberrypi.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\raspberrypi.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/sendgrid.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\sendgrid.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/telegram.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\telegram.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/twilio.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\twilio.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/ubuntu.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\ubuntu.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/windows.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\windows.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images40/xmpp.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images40\xmpp.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/android.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\android.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/cloudflare.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\cloudflare.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/crowdsec.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\crowdsec.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/discord.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\discord.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/docker.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\docker.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/fido.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\fido.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/jumpcloud.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\jumpcloud.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/ldap.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\ldap.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/letsencrypt.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\letsencrypt.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/linux.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\linux.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/macos.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\macos.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/mariadb.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\mariadb.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/mongodb.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\mongodb.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/mysql.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\mysql.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/nextcloud.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\nextcloud.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/nodejs.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\nodejs.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/openssl.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\openssl.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/plivo.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\plivo.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/postgresql.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\postgresql.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/raspberrypi.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\raspberrypi.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/sendgrid.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\sendgrid.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/telegram.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\telegram.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/twilio.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\twilio.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/ubuntu.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\ubuntu.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/windows.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\windows.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/images80/xmpp.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\images80\xmpp.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/index.html
+File Name: C:\Downloaded Web Sites\meshcentral.com\index.html
+Content Type: text/html
+
+Uri: https://meshcentral.com/left15.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\left15.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/left30.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\left30.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/back.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\back.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main01.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main01.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main01x.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main01x.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main02.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main02.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main02x.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main02x.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main03.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main03.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main03x.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main03x.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main04.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main04.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main04x.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main04x.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main05.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main05.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main05x.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main05x.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main06.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main06.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main06x.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main06x.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main07.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main07.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/main-images/main07x.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\main-images\main07x.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/right15.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\right15.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/right30.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\right30.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/screens.html
+File Name: C:\Downloaded Web Sites\meshcentral.com\screens.html
+Content Type: text/html
+
+Uri: https://meshcentral.com/screens/screen1.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\screens\screen1.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/tools/MeshCentralAssistant.exe
+File Name: C:\Downloaded Web Sites\meshcentral.com\tools\MeshCentralAssistant.exe
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/tools/MeshCentralInstaller.exe
+File Name: C:\Downloaded Web Sites\meshcentral.com\tools\MeshCentralInstaller.exe
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/tools/MeshCentralRouter.dmg
+File Name: C:\Downloaded Web Sites\meshcentral.com\tools\MeshCentralRouter.dmg
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/tools/MeshCentralRouter.exe
+File Name: C:\Downloaded Web Sites\meshcentral.com\tools\MeshCentralRouter.exe
+Content Type: application/octet-stream
+
+Uri: https://meshcentral.com/tutorials.html
+File Name: C:\Downloaded Web Sites\meshcentral.com\tutorials.html
+Content Type: text/html
+
+Uri: https://meshcentral.com/wright15.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\wright15.png
+Content Type: image/png
+
+Uri: https://meshcentral.com/wright30.png
+File Name: C:\Downloaded Web Sites\meshcentral.com\wright30.png
+Content Type: image/png
+
+Uri: https://raw.githubusercontent.com/Ylianst/MeshCentral/master/meshcentral-config-schema.json
+File Name: C:\Downloaded Web Sites\meshcentral.com\Ylianst\MeshCentral\master\meshcentral-config-schema.json
+Content Type: text/plain
+
+Uri: https://raw.githubusercontent.com/Ylianst/MeshCentral/master/sample-config-advanced.json
+File Name: C:\Downloaded Web Sites\meshcentral.com\Ylianst\MeshCentral\master\sample-config-advanced.json
+Content Type: text/plain
+
+Uri: https://raw.githubusercontent.com/Ylianst/MeshCentral/master/sample-config.json
+File Name: C:\Downloaded Web Sites\meshcentral.com\Ylianst\MeshCentral\master\sample-config.json
+Content Type: text/plain
+
