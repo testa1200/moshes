@@ -9,7 +9,7 @@
     <meta name="robots" content="noindex,nofollow">
     <link type="text/css" href="/styles/style.css" media="screen" rel="stylesheet" title="CSS">
     <link rel="apple-touch-icon" href="favicon-303x303.png">
-    <title>MeshCentral - Downloads</title>
+    <title>MoShes - Downloads</title>
     <style>
         body {
             background-color: #147;
@@ -100,14 +100,14 @@
     <img style="position:absolute;left:0;bottom:0;z-index:-1;height:60%;opacity:0.1" src="main-images/back.png">
     <div style="position:relative;background-color:#147;box-shadow:black 0px 0px 60px;width:100%;height:100px">
         <a href="index.html"><img style="position:absolute;left:0;top:0;z-index:0" src="banner.png" srcset="bannerhd.png 2x"></a>
-        <div style="position:absolute;left:120px;top:10px;font-size:50px;text-shadow: 2px 2px 4px black"><b>MeshCentral</b></div>
+        <div style="position:absolute;left:120px;top:10px;font-size:50px;text-shadow: 2px 2px 4px black"><b>MoShes</b></div>
         <div style="position:absolute;left:115px;top:60px;padding:8px">
-            <a href="index.html" style="color:#EEE"><b><u>Home</u></b></a>&nbsp;
-            <a href="screens.html" style="color:#EEE"><b><u>Screens</u></b></a>&nbsp;
-            <a href="https://www.youtube.com/channel/UCJWz607A8EVlkilzcrb-GKg/videos" style="color:#EEE"><b><u>YouTube</u></b></a>&nbsp;
-            <a href="https://meshcentral2.blogspot.com/" style="color:#EEE"><b><u>Blog</u></b></a>&nbsp;
-            <a href="https://github.com/Ylianst/MeshCentral" style="color:#EEE"><b><u>GitHub</u></b></a>&nbsp;
-            <a href="https://www.npmjs.com/package/meshcentral" style="color:#EEE"><b><u>NPM</u></b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#" style="color:#EEE"><b><u>Home</u></b></a>&nbsp;
+            <a href="#" style="color:#EEE"><b><u>Screens</u></b></a>&nbsp;
+            <a href="#" style="color:#EEE"><b><u>YouTube</u></b></a>&nbsp;
+            <a href="#" style="color:#EEE"><b><u>Blog</u></b></a>&nbsp;
+            <a href="#" style="color:#EEE"><b><u>GitHub</u></b></a>&nbsp;
+            <a href="#" style="color:#EEE"><b><u>NPM</u></b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </div>
     </div>
     <div style="position:absolute;left:0;right:0;top:100px;bottom:0;overflow:auto;padding:12px;font-size:14px">
@@ -122,38 +122,34 @@
                             Getting started is easy. If you don't have it already, install <a class="xlink" href="https://nodejs.org">NodeJS</a>. Then, create an empty folder and do this:<br>
                         </div><br>
                         <div style="padding:12px;width:380px;font-size:20px;font-family:monospace;background-color:black;color:antiquewhite;box-shadow:black 0px 0px 20px;border-radius:6px">
-                            <b>
-                                npm install meshcentral<br>
-                                node node_modules/meshcentral
-                            </b>
+                           
                         </div><br>
                         <div>
-                            That's it. MeshCentral will set itself up and start managing computers on your local network. By default it will be setup in LAN mode and agents you install will
+                            That's it. MoShes will set itself up and start managing computers on your local network. By default it will be setup in LAN mode and agents you install will
                             multicast on the local network to find the server. To setup the server so that agents use a well known DNS name and to start customizing your server, go in the
-                            "meshcentral-data" folder and edit the config.json file. The configuration file must be valid JSON, you can <a class="xlink" href="https://duckduckgo.com/?q=json+lint&t=h_&ia=answer">use this link</a> to validate the file format.
+                            "MoShes-data" folder and edit the config.json file. The configuration file must be valid JSON, you can <a class="xlink" href="https://duckduckgo.com/?q=json+lint&t=h_&ia=answer">use this link</a> to validate the file format.
                         </div><br>
                         <div>
-                            For Windows users, you can download the MeshCentral Installer that will automate installation of NodeJS and provide basic configuration of the server. This option is not recommanded for advanced users.<br>
+                            For Windows users, you can download the MoShes Installer that will automate installation of NodeJS and provide basic configuration of the server. This option is not recommanded for advanced users.<br>
                             <br>
                             <div style="margin-left:20px">
-                                <a href="tools/MeshCentralInstaller.exe"><span class="dlspan" style="text-shadow:none"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCentral Installer</span></a><br><br>
+                                <a href="#"><span class="dlspan" style="text-shadow:none"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MoShes Installer</span></a><br><br>
                             </div>
-                            By default, MeshCentral will use NeDB as this is the built-in database. For more advanced users, it's recommanded to switch to using MongoDB. MeshCentral can be installed
-                            on a very small server. A <a class="xlink" href="https://www.raspberrypi.org/">Raspberry Pi</a> or <a class="xlink" href="https://aws.amazon.com/ec2/pricing/on-demand/">AWS t3.nano running Amazon Linux 2 instance</a> for 5$ a month will do just fine for managing up to a few hundred devices.<br>
-                            You can run the MeshCentral Server with --help to get options for background installation.
+                            By default, MoShes will use NeDB as this is the built-in database. For more advanced users, it's recommanded to switch to using MongoDB. MoShes can be installed
+                            on a very small server. A <a class="xlink" href="https://www.raspberrypi.org/">Raspberry Pi</a>
                         </div><br>
                     </div>
 
                     <h1>Configuration</h1>
                     <div style="margin-left:12px">
                         <div>
-                            Once you get MeshCentral installed, the first user account that is created will be the server administrator. So, don't delay and nagivate to the login page and create a new account.
-                            You can then start using your server right away. A lot of the fun with MeshCentral is the 100's of configuration options that are avaialble in the config.json file. You can
+                            Once you get MoShes installed, the first user account that is created will be the server administrator. So, don't delay and nagivate to the login page and create a new account.
+                            You can then start using your server right away. A lot of the fun with MoShes is the 100's of configuration options that are avaialble in the config.json file. You can
                             put your own branding on the web pages, setup a STMP email server, SMS services and much more.
                         </div><br>
                         <div>
-                            You can look <a class="xlink" href="Ylianst/MeshCentral/master/sample-config.json">here for simple config.json</a>, <a class="xlink" href="Ylianst/MeshCentral/master/sample-config-advanced.json">here for a more advanced configuration</a> and <a class="xlink" href="Ylianst/MeshCentral/master/meshcentral-config-schema.json">here for all possible configuration options</a>.
-                            You can also take a look at the <a class="xlink" href="docs/MeshCentral2InstallGuide.pdf">MeshCentral User's Guide</a> and <a class="xlink" href="tutorials.html">tutorial videos</a> for additional help.
+                            You can look <a class="xlink" href="Ylianst/MoShes/master/sample-config.json">here for simple config.json</a>, <a class="xlink" href="Ylianst/MoShes/master/sample-config-advanced.json">here for a more advanced configuration</a> and <a class="xlink" href="Ylianst/MoShes/master/MoShes-config-schema.json">here for all possible configuration options</a>.
+                            You can also take a look at the <a class="xlink" href="docs/MoShes2InstallGuide.pdf">MoShes User's Guide</a> and <a class="xlink" href="tutorials.html">tutorial videos</a> for additional help.
                         </div><br>
                     </div>
   <h1>Licence Price</h1>
@@ -219,10 +215,10 @@
                              <tr>
                                 <td><center>Price Details</center></td>
                                 <td><center> Free</center></td>
-                                <td><center>$13 / 3 month</center></td>
-                                <td><center>$39 / 3 month</center></td>
-                                <td><center>$60 / 3 mmonth</center></td>     
-                                <td><center>$125 / 3 mmonth</center></td>
+                                <td><center>$33 / 3 month</center></td>
+                                <td><center>$78 / 3 month</center></td>
+                                <td><center>$213 / 3 month</center></td>     
+                                <td><center>$326 / 3 month</center></td>
                                 
                             </tr>
 
@@ -242,39 +238,39 @@
 
                     <h1>Documentation</h1>
                     <div style="margin-left:12px">
-                        <a href="docs/MeshCentral2UserGuide.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">User's Guide</span></a><br><br>
-                        <a href="docs/MeshCentral2InstallGuide.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Install Guide</span></a><br><br>
-                        <a href="docs/MeshCentral2DesignArchitecture.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Design and Architecture Guide</span></a><br><br>
-                        <a href="docs/MeshCentral2RouterUserGuide.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCentral Router Guide</span></a><br><br>
-                        <a href="docs/MeshCtrlUsersGuide.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCtrl Command Line Tool</span></a><br><br>
-                        <a href="docs/MeshCmdUserGuide.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd Command Line Tool</span></a><br><br>
-                        <a href="docs/managementfeatures.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Management features</span></a><br><br>
-                        <a href="docs/securityfeatures.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Security features</span></a>
+                        <a href="#"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">User's Guide</span></a><br><br>
+                        <a href="docs/MoShes2InstallGuide.pdf"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Install Guide</span></a><br><br>
+                        <a href="#"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Design and Architecture Guide</span></a><br><br>
+                        <a href="#"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">MoShes Router Guide</span></a><br><br>
+                        <a href="#"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCtrl Command Line Tool</span></a><br><br>
+                        <a href="#"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd Command Line Tool</span></a><br><br>
+                        <a href="#"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Management features</span></a><br><br>
+                        <a href="#"><span class="dlspan"><b>PDF</b></span>&nbsp;&nbsp;<span class="dlspan2">Security features</span></a>
                     </div><br>
 
                     <h1>Tools Downloads</h1>
                     <div style="margin-left:12px">
-                        <a href="tools/MeshCentralInstaller.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCentral Installer</span></a><br><br>
-                        <a href="tools/MeshCentralRouter.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCentral Router</span></a><br><br>
-                        <a href="tools/MeshCentralAssistant.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCentral Assistant</span></a><br><br>
-                        <a href="tools/MeshCentralRouter.dmg"><span class="dlspan"><b>macOS</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCentral Router</span></a><br><br>
+                        <a href="tools/MoShesInstaller.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MoShes Installer</span></a><br><br>
+                        <a href="tools/MoShesRouter.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MoShes Router</span></a><br><br>
+                        <a href="tools/MoShesAssistant.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MoShes Assistant</span></a><br><br>
+                        <a href="tools/MoShesRouter.dmg"><span class="dlspan"><b>macOS</b></span>&nbsp;&nbsp;<span class="dlspan2">MoShes Router</span></a><br><br>
                     </div><br>
 
                     <h1>Mobile Downloads</h1>
                     <div style="margin-left:12px">
-                        <a href="https://play.google.com/store/apps/details?id=com.meshcentral.agent2"><span class="dlspan"><b>Store</b></span>&nbsp;&nbsp;<span class="dlspan2">Android Agent</span></a><br><br>
-                        <a href="android/meshcentral-agent.apk"><span class="dlspan"><b>APK</b></span>&nbsp;&nbsp;<span class="dlspan2">Android Agent APK</span></a><br><br>
+                        <a href="https://play.google.com/store/apps/details?id=com.MoShes.agent2"><span class="dlspan"><b>Store</b></span>&nbsp;&nbsp;<span class="dlspan2">Android Agent</span></a><br><br>
+                        <a href="android/MoShes-agent.apk"><span class="dlspan"><b>APK</b></span>&nbsp;&nbsp;<span class="dlspan2">Android Agent APK</span></a><br><br>
                     </div><br>
 
-                    <h1>MeshCmd Downloads</h1>
+                    <h1>MoSCmd Downloads</h1>
                     <div style="margin-left:12px">
-                        <a href="executables/MeshCmd.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd for Windows x86 32bit</span></a><br><br>
-                        <a href="executables/MeshCmd64.exe"><span class="dlspan"><b>Win64</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd for Windows x86 64bit</span></a><br><br>
-                        <a href="executables/MeshCmdARM64.exe"><span class="dlspan"><b>Win64</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd for Windows ARM 64bit</span></a><br><br>
-                        <a href="executables/meshcmd-linux-x86-32"><span class="dlspan"><b>x86-32</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd for Linux x86 32bit</span></a><br><br>
-                        <a href="executables/meshcmd-linux-x86-64"><span class="dlspan"><b>x86-64</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd for Linux x86 64bit</span></a><br><br>
-                        <a href="executables/meshcmd-linux-arm-32"><span class="dlspan"><b>ARM-32</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd for Linux ARM 32bit</span></a><br><br>
-                        <a href="executables/meshcmd-linux-arm-64"><span class="dlspan"><b>ARM-64</b></span>&nbsp;&nbsp;<span class="dlspan2">MeshCmd for Linux ARM 64bit</span></a><br><br>
+                        <a href="executables/MoSCmd.exe"><span class="dlspan"><b>Win32</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd for Windows x86 32bit</span></a><br><br>
+                        <a href="executables/MoSCmd64.exe"><span class="dlspan"><b>Win64</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd for Windows x86 64bit</span></a><br><br>
+                        <a href="executables/MoSCmdARM64.exe"><span class="dlspan"><b>Win64</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd for Windows ARM 64bit</span></a><br><br>
+                        <a href="executables/MoScmd-linux-x86-32"><span class="dlspan"><b>x86-32</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd for Linux x86 32bit</span></a><br><br>
+                        <a href="executables/MoScmd-linux-x86-64"><span class="dlspan"><b>x86-64</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd for Linux x86 64bit</span></a><br><br>
+                        <a href="executables/MoScmd-linux-arm-32"><span class="dlspan"><b>ARM-32</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd for Linux ARM 32bit</span></a><br><br>
+                        <a href="executables/MoScmd-linux-arm-64"><span class="dlspan"><b>ARM-64</b></span>&nbsp;&nbsp;<span class="dlspan2">MoSCmd for Linux ARM 64bit</span></a><br><br>
                     </div><br>
 
                     <!-- end of side column: put your navigation menu, etc, above this line -->
